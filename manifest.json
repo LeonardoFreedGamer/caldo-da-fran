@@ -1,7 +1,7 @@
 {
 "name": "Caldo da Fran",
 "short_name": "This name will show in your Windows taskbar, in the start menu, and Android homescreen",
-"start_url": "https://caldo-da-fran-simples.vercel.app",
+"start_url": "https://leonardofreed.github.io/caldo-da-fran/",
 "display": "standalone",
 "description": "Melhores caldos da região",
 "lang": " pt-br",
@@ -34,7 +34,7 @@
 "related_applications": [
     {
         "platform":"windows",
-        "url": "caldo-da-fran-simples.vercel.app"
+        "url": "https://leonardofreed.github.io/caldo-da-fran/"
     }
 ],
 "prefer_related_applications": false,
